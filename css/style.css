@@ -98,6 +98,11 @@ container1-full{
 .brand-logo{
     width: 40px;
     height: 51px;
+    
+}
+.logo img p{
+  color: #FFFFFF !important;
+
 }
 .nav-item img{
     width: 40px;
@@ -132,7 +137,7 @@ font-family: 'Poppins', sans-serif;
     height: 56px;
 }
 .player-name{
-    padding: 5px !important;
+    padding: 15px !important;
     display: flex;
 }
 
@@ -151,4 +156,21 @@ font-family: 'Poppins', sans-serif;
     margin-top: 15px;
     text-transform: capitalize;
     
+}
+.top-section{
+    background: #FFFFFF !important;
+    border-radius: 5px;
+}
+body{
+    background: #E5E5E5 !important;
+}
+.top-section h3{
+    margin-left: 70px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    color: #562EFF;
+
+}
+.top-section .player-name{
+    margin-left: 70px;
 }
