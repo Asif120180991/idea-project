@@ -221,3 +221,55 @@ body{
 .bottom-content{
     margin-left: 5px;
 }
+/*--==courses-css-start==--*/
+
+.courses-img img{
+    width: 224px;
+    height: 104px;
+}
+.courses-content h5{
+
+    font-size: 20px;
+    line-height: 23px;
+
+
+}
+.courses-content span{
+    font-size: 15px;
+    line-height: 17px;
+    color: #ED6B4F;
+}
+.star{
+    display: flex;
+    list-style: none;
+    margin-left:-30px;
+    margin-right: 5px;
+}
+.rate-time{
+ 
+    display: flex;
+
+}
+.star i{
+    color: #FFC014;
+}
+.time{
+    color:#FF4A60 ;
+    margin-left: 10px;
+    
+  
+}
+.courses-card{
+    margin-left: 70px;
+}
+.courses h3{
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #562EFF;
+}
+.courses-box{
+    background: #FFFFFF;
+    margin-top: 100px;
+    padding-top: 20px;
+}
