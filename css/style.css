@@ -174,3 +174,50 @@ body{
 .top-section .player-name{
     margin-left: 70px;
 }
+/*--===bottom-section===--*/
+
+.bottom-img img{
+   
+     height: 117px;
+     width: 177px;
+
+}
+.bottom-card{
+    display: flex;
+}
+.bottom-content h5{
+    
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    color: #000000;
+
+}
+.bottom-content p{
+    color: #9F9F9F;
+    font-family: 'Poppins', sans-serif;
+
+}
+.bottom-content span{
+    color: #562EFF;
+}
+.bottom-section{
+    background: #FFFFFF;
+    border-top:1px solid #9F9F9F;
+    border-radius: 10px;
+}
+.bottom-section h3{
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #562EFF;
+}
+.bottom-card{
+    margin-left: 70px;
+    margin-bottom: 15px;
+    
+}
+.bottom-content{
+    margin-left: 5px;
+}
